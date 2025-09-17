@@ -35,6 +35,9 @@
           <br>
           <p align="center"> Developed with - <strong> Flutter, Dart, BLoC, Hive Database</strong><p>
           <br>
+          <p align="center">
+          <a href="https://github.com/luke-tf/finanapp" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+          </p>
           </p>
         </td>
         <td width="50%">
